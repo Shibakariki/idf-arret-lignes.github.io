@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C00444:", "stops": [{"zdaid": "48939", "name": "Les Esp\u00e9rances", "town": "Ermont", "postal_region": "95219", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "48944", "name": "Lyc\u00e9e Van Gogh", "town": "Ermont", "postal_region": "95219", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473092", "name": "Gare d'Ermont Eaubonne", "town": "Ermont", "postal_region": "95219", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473092", "name": "Gare d'Ermont-Eaubonne", "town": "Ermont", "postal_region": "95219", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "58215", "name": "Stade Raoul Dautry", "town": "Ermont", "postal_region": "95219", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "48940", "name": "L'Orme Saint Edme", "town": "Ermont", "postal_region": "95219", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

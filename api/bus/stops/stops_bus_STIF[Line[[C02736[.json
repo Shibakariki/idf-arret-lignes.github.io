@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C02736:", "stops": [{"zdaid": "492472", "name": "Centre de Traitement", "town": "Vert-le-Grand", "postal_region": "91648", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "48521", "name": "Le Lunain", "town": "Lisses", "postal_region": "91340", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "492469", "name": "Semardel", "town": "Vert-le-Grand", "postal_region": "91648", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "48495", "name": "Chemin de la Joute", "town": "Lisses", "postal_region": "91340", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "48516", "name": "Parc de Tr\u00e9ville", "town": "Vert-le-Grand", "postal_region": "91648", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "48516", "name": "Parc de Treville", "town": "Vert-le-Grand", "postal_region": "91648", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

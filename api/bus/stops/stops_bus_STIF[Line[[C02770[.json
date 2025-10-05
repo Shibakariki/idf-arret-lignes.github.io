@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C02770:", "stops": [{"zdaid": "473036", "name": "Gare Brunoy", "town": "Brunoy", "postal_region": "91114", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "473036", "name": "Brunoy", "town": "Brunoy", "postal_region": "91114", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "473036", "name": "Gare de Brunoy", "town": "Brunoy", "postal_region": "91114", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "473036", "name": "Gare de Brunoy", "town": "Brunoy", "postal_region": "91114", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "47678", "name": "Portalis", "town": "Brunoy", "postal_region": "91114", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}]}

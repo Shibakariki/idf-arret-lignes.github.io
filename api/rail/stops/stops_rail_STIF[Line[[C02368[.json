@@ -1,1 +1,5 @@
+---
+layout: none
+permalink: /api/rail/stops/stops_rail_{line}/
+---
 {"line_ref": "STIF:Line::C02368:", "stops": [{"zdaid": "470195", "name": "Paris Gare de Lyon", "town": "Paris 12e", "postal_region": "75112", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "470195", "name": "Gare de Lyon", "town": "Paris 12e", "postal_region": "75112", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "470195", "name": "Gare de Lyon", "town": "Paris 12e", "postal_region": "75112", "accessibility": "partial", "audiblesignals": "partial", "visualsigns": "partial"}]}

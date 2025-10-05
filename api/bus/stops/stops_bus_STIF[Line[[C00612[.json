@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C00612:", "stops": [{"zdaid": "473619", "name": "Gare de Villiers-le-Bel Gonesse Arnouville", "town": "Arnouville", "postal_region": "95019", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "473619", "name": "Jean Jaur\u00e8s", "town": "Arnouville", "postal_region": "95019", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

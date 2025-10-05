@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C00606:", "stops": [{"zdaid": "59267", "name": "Mairie", "town": "Champagne-sur-Oise", "postal_region": "95134", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}]}

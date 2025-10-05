@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C01509:", "stops": [{"zdaid": "44395", "name": "Place des Buttes", "town": "Bray-sur-Seine", "postal_region": "77051", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

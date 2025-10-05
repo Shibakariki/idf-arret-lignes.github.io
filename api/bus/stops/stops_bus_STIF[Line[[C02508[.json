@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C02508:", "stops": [{"zdaid": "56404", "name": "N\u00e9rac", "town": "Boussy-Saint-Antoine", "postal_region": "91097", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}]}

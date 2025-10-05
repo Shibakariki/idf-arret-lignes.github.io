@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C01519:", "stops": [{"zdaid": "52395", "name": "Lib\u00e9ration", "town": "Provins", "postal_region": "77379", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "52145", "name": "Mairie", "town": "Saint-Brice", "postal_region": "77403", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "52143", "name": "Clinique - Patton", "town": "Saint-Brice", "postal_region": "77403", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "52142", "name": "Place du Ch\u00e2tel", "town": "Provins", "postal_region": "77379", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "59188", "name": "Porte de Jouy", "town": "Provins", "postal_region": "77379", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "52146", "name": "Table Ronde", "town": "Provins", "postal_region": "77379", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

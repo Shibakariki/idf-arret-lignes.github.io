@@ -1,1 +1,5 @@
+---
+layout: none
+permalink: /api/metro/stops/stops_metro_{line}/
+---
 {"line_ref": "STIF:Line::C01386:", "stops": [{"zdaid": "44864", "name": "Saint-Fargeau", "town": "Paris 20e", "postal_region": "75120", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "45630", "name": "Pelleport", "town": "Paris 20e", "postal_region": "75120", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "44529", "name": "Porte des Lilas", "town": "Paris 19e", "postal_region": "75119", "accessibility": "true", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "44529", "name": "Porte des Lilas", "town": "Paris 20e", "postal_region": "75120", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "43055", "name": "Gambetta", "town": "Paris 20e", "postal_region": "75120", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}]}

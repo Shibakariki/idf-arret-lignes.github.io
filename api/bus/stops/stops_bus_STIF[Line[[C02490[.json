@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C02490:", "stops": [{"zdaid": "473352", "name": "Gare de Meaux (Quai 8)", "town": "Meaux", "postal_region": "77284", "accessibility": "partial", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473352", "name": "Gare de Meaux (Quai 5)", "town": "Meaux", "postal_region": "77284", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473352", "name": "Gare de Meaux (Quai G)", "town": "Meaux", "postal_region": "77284", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473352", "name": "Gare de Meaux (Quai E)", "town": "Meaux", "postal_region": "77284", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

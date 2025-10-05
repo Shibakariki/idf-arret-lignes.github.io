@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C00630:", "stops": [{"zdaid": "55814", "name": "Plaine", "town": "Saint-Thibault-des-Vignes", "postal_region": "77438", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C00941:", "stops": [{"zdaid": "473420", "name": "Gare de La Fert\u00e9-sous-Jouarre (Quai D)", "town": "La Fert\u00e9-sous-Jouarre", "postal_region": "77183", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473420", "name": "Gare de La Fert\u00e9-sous-Jouarre (Quai A)", "town": "La Fert\u00e9-sous-Jouarre", "postal_region": "77183", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "52708", "name": "Pr\u00e9s Macquais", "town": "Sammeron", "postal_region": "77440", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

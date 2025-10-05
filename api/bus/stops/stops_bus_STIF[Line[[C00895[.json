@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C00895:", "stops": [{"zdaid": "45781", "name": "Lyve", "town": "Le M\u00e9e-sur-Seine", "postal_region": "77285", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

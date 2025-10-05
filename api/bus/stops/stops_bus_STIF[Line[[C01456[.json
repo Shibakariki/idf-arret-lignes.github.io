@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C01456:", "stops": [{"zdaid": "49908", "name": "Mairie - Ecole", "town": "Villuis", "postal_region": "77523", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

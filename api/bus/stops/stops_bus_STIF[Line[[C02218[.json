@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/bus/stops/stops_bus_{line}/
+---
+{"line_ref": "STIF:Line::C02218:", "stops": [{"zdaid": "462302", "name": "Coubertin", "town": "\u00c9lancourt", "postal_region": "78208", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "42480", "name": "Centre Commercial", "town": "Maurepas", "postal_region": "78383", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "43021", "name": "France Miniature", "town": "\u00c9lancourt", "postal_region": "78208", "accessibility": "partial", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473427", "name": "La Verri\u00e8re Gare - Quai A", "town": "La Verri\u00e8re", "postal_region": "78644", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}
