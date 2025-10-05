@@ -1,0 +1,8 @@
+{
+    "transport_modes": [
+        "bus",
+        "tram",
+        "metro",
+        "rail"
+    ]
+}

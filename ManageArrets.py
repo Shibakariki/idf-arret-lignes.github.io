@@ -60,7 +60,11 @@ line_df['id_line'] = 'STIF:Line::' + line_df['id_line'] + ':'
 # Add name_line to df_lines_no_dups
 df_lines_no_dups_with_name = df_lines_no_dups.merge(line_df[['id_line', 'name_line', 'shortname_groupoflines','colourweb_hexa']], left_on='line_ref', right_on='id_line', how='left').drop(columns=['id_line'])
 
+df_lines_no_dups_with_name.to_json('data/lines_with_name.json', orient='records', force_ascii=False)
 
+if os.path.exists('data/lines_with_name.json'):
+    with open('data/lines_with_name.json', 'r', encoding='utf-8') as f:
+        df_lines_no_dups_with_name = pd.read_json(f, dtype=str)
 
 bus_df = df_lines_no_dups_with_name[df_lines_no_dups_with_name['type'] == 'bus']
 print(f"Number of unique bus lines: {bus_df['name_line'].nunique()}")
