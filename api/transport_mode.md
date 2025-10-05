@@ -1,0 +1,13 @@
+---
+layout: api
+permalink: /api/transport_mode/
+---
+
+{
+"transport_modes": [
+"bus",
+"tram",
+"metro",
+"rail"
+]
+}

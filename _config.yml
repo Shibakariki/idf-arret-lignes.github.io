@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-redirect-from
+
+permalink: /:basename/
+
+collections:
+  api:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: "api"
+    values:
+      layout: api
