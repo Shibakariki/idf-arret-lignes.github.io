@@ -100,7 +100,7 @@ for line in bus_df['line_ref'].unique():
     print(f"Saving stops for line {line} with {len(stops)} stops.")
 
     with open(f'api/bus/stops/stops_bus_{line.replace(":", "[")}.json', 'w') as f:
-        f.write('---\nlayout: none\npermalink: /api/bus/stops/stops_bus_{line}/\n---\n')
+        f.write(f'---\nlayout: none\npermalink: /api/bus/stops/stops_bus_{line}/\n---\n')
         json.dump(stops_bus, f)
 
 # endregion
@@ -139,7 +139,7 @@ for line in rail_df['line_ref'].unique():
     print(f"Saving stops for line {line} with {len(stops)} stops.")
 
     with open(f'api/rail/stops/stops_rail_{line.replace(":", "[")}.json', 'w') as f:
-        f.write('---\nlayout: none\npermalink: /api/rail/stops/stops_rail_{line}/\n---\n')
+        f.write(f'---\nlayout: none\npermalink: /api/rail/stops/stops_rail_{line}/\n---\n')
         json.dump(stops_rail, f)
 
 # endregion
@@ -180,7 +180,7 @@ for line in metro_df['line_ref'].unique():
     print(f"Saving stops for line {line} with {len(stops)} stops.")
 
     with open(f'api/metro/stops/stops_metro_{line.replace(":", "[")}.json', 'w') as f:
-        f.write('---\nlayout: none\npermalink: /api/metro/stops/stops_metro_{line}/\n---\n')
+        f.write(f'---\nlayout: none\npermalink: /api/metro/stops/stops_metro_{line}/\n---\n')
         json.dump(stops_metro, f)
 
 # endregion
@@ -218,7 +218,7 @@ for line in tram_df['line_ref'].unique():
     print(f"Saving stops for line {line} with {len(stops)} stops.")
 
     with open(f'api/tram/stops/stops_tram_{line.replace(":", "[")}.json', 'w') as f:
-        f.write('---\nlayout: none\npermalink: /api/tram/stops/stops_tram_{line}/\n---\n')
+        f.write(f'---\nlayout: none\npermalink: /api/tram/stops/stops_tram_{line}/\n---\n')
         json.dump(stops_tram, f)
         
 # endregion    

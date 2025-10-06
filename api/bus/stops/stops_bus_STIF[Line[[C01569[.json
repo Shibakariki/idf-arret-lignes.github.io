@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C01569:/
 ---
 {"line_ref": "STIF:Line::C01569:", "stops": [{"zdaid": "473872", "name": "Orsay - Le Guichet Gare routi\u00e8re RER", "town": "Orsay", "postal_region": "91471", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "43414", "name": "Universit\u00e9 Paris Saclay", "town": "Orsay", "postal_region": "91471", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "43928", "name": "Mairie des Ulis - Place de la Libert\u00e9", "town": "Les Ulis", "postal_region": "91692", "accessibility": "partial", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "47810", "name": "Rond-Point de Mond\u00e9tour", "town": "Orsay", "postal_region": "91471", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "47810", "name": "Rond-Point de Mond\u00e9tour", "town": "Les Ulis", "postal_region": "91692", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

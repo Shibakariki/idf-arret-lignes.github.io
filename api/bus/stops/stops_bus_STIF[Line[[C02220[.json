@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02220:/
 ---
 {"line_ref": "STIF:Line::C02220:", "stops": [{"zdaid": "473882", "name": "Mennecy Gare SNCF", "town": "Mennecy", "postal_region": "91386", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "473882", "name": "Mennecy", "town": "Mennecy", "postal_region": "91386", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}]}

@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C01428:/
 ---
 {"line_ref": "STIF:Line::C01428:", "stops": [{"zdaid": "42348", "name": "Bois Bodin / Centre Commercial", "town": "Aubergenville", "postal_region": "78029", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "42661", "name": "Clinique", "town": "Aubergenville", "postal_region": "78029", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473039", "name": "Aubergenville-Elisabethville Gare quai 3", "town": "Aubergenville", "postal_region": "78029", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "416442", "name": "Coop\u00e9ration", "town": "Aubergenville", "postal_region": "78029", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473039", "name": "Aubergenville Elisabethville", "town": "Aubergenville", "postal_region": "78029", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

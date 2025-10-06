@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02486:/
 ---
 {"line_ref": "STIF:Line::C02486:", "stops": [{"zdaid": "473152", "name": "Gare de Bouray", "town": "Lardy", "postal_region": "91330", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}]}

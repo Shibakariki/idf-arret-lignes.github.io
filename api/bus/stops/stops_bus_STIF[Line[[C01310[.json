@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C01310:/
 ---
 {"line_ref": "STIF:Line::C01310:", "stops": [{"zdaid": "58273", "name": "Professeur Cadiot", "town": "Maisons-Alfort", "postal_region": "94046", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "45710", "name": "8 mai 1945", "town": "Maisons-Alfort", "postal_region": "94046", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "45711", "name": "Gabriel P\u00e9ri", "town": "Maisons-Alfort", "postal_region": "94046", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "51168", "name": "Rue de Lille", "town": "Maisons-Alfort", "postal_region": "94046", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "58213", "name": "Mairie", "town": "Maisons-Alfort", "postal_region": "94046", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

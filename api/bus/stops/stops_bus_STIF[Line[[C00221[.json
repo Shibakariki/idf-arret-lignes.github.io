@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C00221:/
 ---
 {"line_ref": "STIF:Line::C00221:", "stops": [{"zdaid": "473615", "name": "Villeparisis - Mitry-le-Neuf", "town": "Mitry-Mory", "postal_region": "77294", "accessibility": "false", "audiblesignals": "partial", "visualsigns": "partial"}, {"zdaid": "42367", "name": "Bosquets", "town": "Mitry-Mory", "postal_region": "77294", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "473615", "name": "Gare de Villeparisis Mitry-le-Neuf", "town": "Mitry-Mory", "postal_region": "77294", "accessibility": "false", "audiblesignals": "partial", "visualsigns": "partial"}, {"zdaid": "473615", "name": "Gare de Villeparisis Mitry-le-Neuf", "town": "Mitry-Mory", "postal_region": "77294", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "426273", "name": "Ecole Henri Barbusse", "town": "Mitry-Mory", "postal_region": "77294", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "426271", "name": "Ch\u00e2teaubriant", "town": "Mitry-Mory", "postal_region": "77294", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}]}

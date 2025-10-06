@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02773:/
 ---
 {"line_ref": "STIF:Line::C02773:", "stops": [{"zdaid": "473876", "name": "Gare de Yerres", "town": "Yerres", "postal_region": "91691", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "56590", "name": "CEC", "town": "Yerres", "postal_region": "91691", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}, {"zdaid": "473876", "name": "Gare Routi\u00e8re d'Yerres", "town": "Yerres", "postal_region": "91691", "accessibility": "partial", "audiblesignals": "false", "visualsigns": "false"}]}

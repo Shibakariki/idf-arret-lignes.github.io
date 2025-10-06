@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/rail/stops/stops_rail_{line}/
+permalink: /api/rail/stops/stops_rail_STIF:Line::C01746:/
 ---
 {"line_ref": "STIF:Line::C01746:", "stops": [{"zdaid": "411317", "name": "Gare de Beauvais", "town": "Beauvais", "postal_region": "60057", "accessibility": "partial", "audiblesignals": "partial", "visualsigns": "partial"}, {"zdaid": "43178", "name": "Persan - Beaumont", "town": "Persan", "postal_region": "95487", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "411317", "name": "Beauvais", "town": "Beauvais", "postal_region": "60057", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "43178", "name": "Gare de Persan Beaumont", "town": "Persan", "postal_region": "95487", "accessibility": "partial", "audiblesignals": "partial", "visualsigns": "partial"}, {"zdaid": "462394", "name": "Paris Gare du Nord", "town": "Paris 10e", "postal_region": "75110", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "462394", "name": "Gare du Nord", "town": "Paris 10e", "postal_region": "75110", "accessibility": "partial", "audiblesignals": "partial", "visualsigns": "partial"}]}

@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C01831:/
 ---
 {"line_ref": "STIF:Line::C01831:", "stops": [{"zdaid": "416634", "name": "Rue Lavoisier", "town": "Morangis", "postal_region": "91432", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "416637", "name": "Rue de Savigny", "town": "Longjumeau", "postal_region": "91345", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "482372", "name": "Rouillon", "town": "Longjumeau", "postal_region": "91345", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

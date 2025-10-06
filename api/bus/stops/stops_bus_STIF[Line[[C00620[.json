@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C00620:/
 ---
 {"line_ref": "STIF:Line::C00620:", "stops": [{"zdaid": "47319", "name": "Les Cordonniers", "town": "Thorigny-sur-Marne", "postal_region": "77464", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

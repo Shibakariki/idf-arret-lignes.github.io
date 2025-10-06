@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02314:/
 ---
 {"line_ref": "STIF:Line::C02314:", "stops": [{"zdaid": "480358", "name": "Mairie Desbassayns", "town": "Suresnes", "postal_region": "92073", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "480358", "name": "Mairie de Suresnes", "town": "Suresnes", "postal_region": "92073", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

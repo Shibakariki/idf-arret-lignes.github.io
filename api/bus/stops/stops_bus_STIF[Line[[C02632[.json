@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02632:/
 ---
 {"line_ref": "STIF:Line::C02632:", "stops": [{"zdaid": "473612", "name": "Villab\u00e9", "town": "Villab\u00e9", "postal_region": "91659", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473612", "name": "Gare de Villab\u00e9", "town": "Villab\u00e9", "postal_region": "91659", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "473355", "name": "Gare de Mennecy Rue de l'Abreuvoir", "town": "Mennecy", "postal_region": "91386", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "473408", "name": "Gare de Moulin Galant", "town": "Corbeil-Essonnes", "postal_region": "91174", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "473408", "name": "Moulin Galant", "town": "Corbeil-Essonnes", "postal_region": "91174", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02638:/
 ---
 {"line_ref": "STIF:Line::C02638:", "stops": [{"zdaid": "56692", "name": "Mairie", "town": "Rambouillet", "postal_region": "78517", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

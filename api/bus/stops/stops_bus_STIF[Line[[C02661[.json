@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02661:/
 ---
 {"line_ref": "STIF:Line::C02661:", "stops": [{"zdaid": "473049", "name": "Gare Place", "town": "Br\u00e9tigny-sur-Orge", "postal_region": "91103", "accessibility": "false", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "473049", "name": "Gare Place", "town": "Br\u00e9tigny-sur-Orge", "postal_region": "91103", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473049", "name": "Gare de Br\u00e9tigny Place", "town": "Br\u00e9tigny-sur-Orge", "postal_region": "91103", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473049", "name": "Gare Place", "town": "Br\u00e9tigny-sur-Orge", "postal_region": "91103", "accessibility": "partial", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C01226:/
 ---
 {"line_ref": "STIF:Line::C01226:", "stops": [{"zdaid": "52172", "name": "Les A\u00e9rostiers", "town": "Noisy-le-Grand", "postal_region": "93051", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}

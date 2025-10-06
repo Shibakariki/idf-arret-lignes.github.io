@@ -1,5 +1,5 @@
 ---
 layout: none
-permalink: /api/bus/stops/stops_bus_{line}/
+permalink: /api/bus/stops/stops_bus_STIF:Line::C02772:/
 ---
 {"line_ref": "STIF:Line::C02772:", "stops": [{"zdaid": "43009", "name": "Fontaine Cornaille", "town": "Quincy-sous-S\u00e9nart", "postal_region": "91514", "accessibility": "false", "audiblesignals": "false", "visualsigns": "false"}]}
