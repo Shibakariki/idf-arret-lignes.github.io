@@ -67,8 +67,20 @@ else:
 
     df_lines_no_dups_with_name.to_json('data/lines_with_name.json', orient='records', force_ascii=False)
 
-# region === BUS LINES ===
+# Drop duplicates with unknown values in a least accessibility, audiblesignals, visualsigns
+for idx, fake_dup_group in df_lines_no_dups_with_name.groupby(['zdaid', 'name','line_ref']):
+    if len(fake_dup_group) > 1:
+        if fake_dup_group['accessibility'].nunique() > 1 or fake_dup_group['audiblesignals'].nunique() > 1 or fake_dup_group['visualsigns'].nunique() > 1:
+            # Keep the row with the most non-unknown values
+            scores = fake_dup_group.apply(lambda x: sum([1 for v in [x['accessibility'], x['audiblesignals'], x['visualsigns']] if v not in ['Unknown','unknown', '', None]]), axis=1)
+            to_keep = scores.idxmax()
+            df_lines_no_dups_with_name = df_lines_no_dups_with_name.drop(fake_dup_group.index.difference([to_keep]))
 
+# test_tram = df_lines_no_dups_with_name[(df_lines_no_dups_with_name["name_line"] == "T1")]
+# test_tram.sort_values(by="name")
+# print(len(test_tram))
+
+# region === BUS LINES ===
 bus_df = df_lines_no_dups_with_name[df_lines_no_dups_with_name['type'] == 'bus']
 print(f"Number of unique bus lines: {bus_df['name_line'].nunique()}")
 print(f"Total stops: {len(bus_df['zdaid'])}")
@@ -191,6 +203,8 @@ print(f"Number of unique tram lines: {tram_df['name_line'].nunique()}")
 print(f"Total stops: {len(tram_df['zdaid'])}")
 # sort tram_df by name_line
 tram_df = tram_df.sort_values(by='name_line', key=lambda x: x.map(alphanum_key))
+test_tram = tram_df[tram_df["name_line"] == "T1"].sort_values(by='name')
+
 
 # For each unique line_ref in tram_df, save in lines_tram.json the list of line_ref, shortname_groupoflines, colourweb_hexa and number of stops
 lines_tram = []

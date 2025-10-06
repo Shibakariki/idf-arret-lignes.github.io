@@ -2,4 +2,4 @@
 layout: none
 permalink: /api/bus/stops/stops_bus_STIF:Line::C00481:/
 ---
-{"line_ref": "STIF:Line::C00481:", "stops": [{"zdaid": "47605", "name": "Foch", "town": "Herblay", "postal_region": "95306", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473365", "name": "Herblay", "town": "Herblay", "postal_region": "95306", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473365", "name": "Gare d'Herblay", "town": "Herblay", "postal_region": "95306", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}]}
+{"line_ref": "STIF:Line::C00481:", "stops": [{"zdaid": "47605", "name": "Foch", "town": "Herblay", "postal_region": "95306", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473365", "name": "Gare d'Herblay", "town": "Herblay", "postal_region": "95306", "accessibility": "true", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "473365", "name": "Herblay", "town": "Herblay", "postal_region": "95306", "accessibility": "unknown", "audiblesignals": "unknown", "visualsigns": "unknown"}]}
