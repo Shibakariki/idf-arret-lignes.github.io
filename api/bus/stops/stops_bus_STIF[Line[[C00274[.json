@@ -2,4 +2,4 @@
 layout: none
 permalink: /api/bus/stops/stops_bus_STIF:Line::C00274:/
 ---
-{"line_ref": "STIF:Line::C00274:", "stops": [{"zdaid": "42228", "name": "Art de Vivre", "town": "Orgeval", "postal_region": "78466", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "42747", "name": "40 Sous / Route d'Orgeval", "town": "Orgeval", "postal_region": "78466", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}, {"zdaid": "427871", "name": "Gare de Poissy Sud", "town": "Poissy", "postal_region": "78498", "accessibility": "false", "audiblesignals": "unknown", "visualsigns": "unknown"}, {"zdaid": "427871", "name": "Gare Sud de Poissy (4)", "town": "Poissy", "postal_region": "78498", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}]}
+{"line_ref": "STIF:Line::C00274:", "stops": [{"zdaid": "42747", "name": "40 Sous / Route d'Orgeval", "town": "Orgeval", "postal_region": "78466", "accessibility": "partial", "audiblesignals": "true", "visualsigns": "true"}]}

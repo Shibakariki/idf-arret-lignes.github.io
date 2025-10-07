@@ -76,9 +76,13 @@ for idx, fake_dup_group in df_lines_no_dups_with_name.groupby(['zdaid', 'name','
             to_keep = scores.idxmax()
             df_lines_no_dups_with_name = df_lines_no_dups_with_name.drop(fake_dup_group.index.difference([to_keep]))
 
-# test_tram = df_lines_no_dups_with_name[(df_lines_no_dups_with_name["name_line"] == "T1")]
-# test_tram.sort_values(by="name")
-# print(len(test_tram))
+df_lines_no_dups_with_name = df_lines_no_dups_with_name.drop_duplicates("zdaid")
+
+# test_bus = df_lines_no_dups_with_name[(df_lines_no_dups_with_name["name_line"] == "111")]
+# test_bus.sort_values(by="zdaid")
+# print(len(test_bus))
+
+
 
 # region === BUS LINES ===
 bus_df = df_lines_no_dups_with_name[df_lines_no_dups_with_name['type'] == 'bus']
